@@ -1,3 +1,4 @@
+export const runtime = "nodejs";
 import Image from "next/image";
 import AttendanceChart from "./AttendanceChart";
 import prisma from "@/lib/prisma";
