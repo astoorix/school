@@ -1,3 +1,4 @@
+export const runtime = "nodejs";
 import prisma from "@/lib/prisma";
 import FormModal from "./FormModal";
 import { auth } from "@clerk/nextjs/server";
