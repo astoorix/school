@@ -1,3 +1,4 @@
+export const runtime = "nodejs";
 import prisma from "@/lib/prisma";
 
 const StudentAttendanceCard = async ({ id }: { id: string }) => {
