@@ -1,3 +1,4 @@
+export const runtime = "nodejs";
 "use client";
 
 import { ITEM_PER_PAGE } from "@/lib/settings";
