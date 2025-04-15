@@ -1,3 +1,4 @@
+export const runtime = "nodejs";
 "use client";
 
 import { Calendar, momentLocalizer, View, Views } from "react-big-calendar";
