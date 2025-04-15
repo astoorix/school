@@ -1,3 +1,4 @@
+export const runtime = "nodejs";
 import { FieldError } from "react-hook-form";
 
 type InputFieldProps = {
