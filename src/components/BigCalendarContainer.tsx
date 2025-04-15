@@ -1,3 +1,4 @@
+export const runtime = "nodejs";
 import prisma from "@/lib/prisma";
 import BigCalendar from "./BigCalender";
 import { adjustScheduleToCurrentWeek } from "@/lib/utils";
