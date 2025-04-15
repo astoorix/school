@@ -1,3 +1,5 @@
+export const runtime = "nodejs";
+
 import { Day, PrismaClient, UserSex } from "@prisma/client";
 const prisma = new PrismaClient();
 
